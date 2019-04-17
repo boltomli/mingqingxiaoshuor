@@ -1,0 +1,13 @@
+Package: mqxsr
+Type: Package
+Title: Some Chinese Novels Around Ming and Qing
+Version: 0.1.0
+Author: Song Li
+Maintainer: Song Li <songl@outlook.com>
+Description: Full texts for some Chinese Novels around Ming and Qing.
+URL: https://github.com/boltomli/mingqingxiaoshuor
+BugReports: https://github.com/boltomli/mingqingxiaoshuor/issues
+Suggests: testthat, dplyr
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
