@@ -1,0 +1,15 @@
+note <- sprintf('R package version %s', meta$Version)
+
+citHeader('To cite mqxsr in publications use:')
+
+citEntry(entry = 'Manual',
+         title = 'Chinese novels around Ming and Qing',
+         author = personList(as.person('Song Li')),
+         year = 2019,
+         note = note,
+         url = 'https://github.com/boltomli/mingqingxiaoshuor/',
+         textVersion =
+         paste('Song Li (2019).',
+               'An R package for Chinese novels around Ming and Qing.',
+               'URL https://github.com/boltomli/mingqingxiaoshuor/.')
+)
