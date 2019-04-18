@@ -3,7 +3,7 @@
 \docType{data}
 \name{xiyouji}
 \alias{xiyouji}
-\title{The text of 《西遊記》}
+\title{The text of Xi You Ji}
 \format{A character vector with 26939 elements}
 \source{
 \url{https://www.gutenberg.org/ebooks/23962}

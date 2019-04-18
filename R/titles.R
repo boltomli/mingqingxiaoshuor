@@ -8,7 +8,7 @@
 #' @name mqxsr
 NULL
 
-#' The text of 《水滸傳》
+#' The text of Shui Hu Zhuan
 #'
 #' The UTF-8 plain text was sourced from Project Gutenberg.
 #' (Some elements might be blank.)
@@ -17,7 +17,7 @@ NULL
 #' @format A character vector with 16900 elements
 "shuihuzhuan"
 
-#' The text of 《三國志演義》
+#' The text of San Guo Zhi Yan Yi
 #'
 #' The UTF-8 plain text was sourced from Project Gutenberg.
 #' (Some elements might be blank.)
@@ -26,7 +26,7 @@ NULL
 #' @format A character vector with 21287 elements
 "sanguozhiyanyi"
 
-#' The text of 《西遊記》
+#' The text of Xi You Ji
 #'
 #' The UTF-8 plain text was sourced from Project Gutenberg.
 #' (Some elements might be blank.)
@@ -35,7 +35,7 @@ NULL
 #' @format A character vector with 26939 elements
 "xiyouji"
 
-#' The text of 《紅樓夢》
+#' The text of Hong Lou Meng
 #'
 #' The UTF-8 plain text was sourced from Project Gutenberg.
 #' (Some elements might be blank.)

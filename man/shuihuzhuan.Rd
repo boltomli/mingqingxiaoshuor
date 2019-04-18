@@ -3,7 +3,7 @@
 \docType{data}
 \name{shuihuzhuan}
 \alias{shuihuzhuan}
-\title{The text of 《水滸傳》}
+\title{The text of Shui Hu Zhuan}
 \format{A character vector with 16900 elements}
 \source{
 \url{https://www.gutenberg.org/ebooks/23863}

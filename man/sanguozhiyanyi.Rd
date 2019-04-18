@@ -3,7 +3,7 @@
 \docType{data}
 \name{sanguozhiyanyi}
 \alias{sanguozhiyanyi}
-\title{The text of 《三國志演義》}
+\title{The text of San Guo Zhi Yan Yi}
 \format{A character vector with 21287 elements}
 \source{
 \url{https://www.gutenberg.org/ebooks/23950}

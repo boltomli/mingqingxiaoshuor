@@ -3,7 +3,7 @@
 \docType{data}
 \name{hongloumeng}
 \alias{hongloumeng}
-\title{The text of 《紅樓夢》}
+\title{The text of Hong Lou Meng}
 \format{A character vector with 28409 elements}
 \source{
 \url{https://www.gutenberg.org/ebooks/24264}
