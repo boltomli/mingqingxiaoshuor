@@ -35,12 +35,12 @@ To cite mqxsr in publications use:
 
 A BibTeX entry for LaTeX users is
 
-  @Manual{,
-    title = {Chinese novels around Ming and Qing},
-    author = {Song Li},
-    year = {2019},
-    note = {R package version 0.1.0},
-    url = {https://github.com/boltomli/mingqingxiaoshuor/},
+  @Manual{,  
+    title = {Chinese novels around Ming and Qing},  
+    author = {Song Li},  
+    year = {2019},  
+    note = {R package version 0.1.0},  
+    url = {https://github.com/boltomli/mingqingxiaoshuor/},  
   }
 
 ## License
