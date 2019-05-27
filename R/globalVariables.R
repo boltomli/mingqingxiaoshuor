@@ -1,2 +1,3 @@
 globalVariables(c("shuihuzhuan", "sanguozhiyanyi", "xiyouji",
-                  "hongloumeng"))
+                  "hongloumeng",
+                  "yushimingyan", "jingshitongyan", "xingshihengyan"))

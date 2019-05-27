@@ -18,7 +18,10 @@ books <- function(){
     '\u6c34\u6ef8\u50b3' = mqxsr::shuihuzhuan,
     '\u4e09\u570b\u5fd7\u6f14\u7fa9' = mqxsr::sanguozhiyanyi,
     '\u897f\u904a\u8a18' = mqxsr::xiyouji,
-    '\u7d05\u6a13\u5922' = mqxsr::hongloumeng
+    '\u7d05\u6a13\u5922' = mqxsr::hongloumeng,
+    '\u55bb\u4e16\u660e\u8a00' = mqxsr::yushimingyan,
+    '\u8b66\u4e16\u901a\u8a00' = mqxsr::jingshitongyan,
+    '\u9192\u4e16\u6046\u8a00' = mqxsr::xingshihengyan
   )
   ret <- data.frame(text = unlist(titles, use.names = FALSE),
                     stringsAsFactors = FALSE)
