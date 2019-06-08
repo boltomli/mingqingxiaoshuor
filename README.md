@@ -8,6 +8,10 @@ Inspired by [janeaustenr](https://github.com/juliasilge/janeaustenr) by Julia Si
 
 UTF-8 plain text for each novel was originally sourced from [Project Gutenberg](https://www.gutenberg.org/).
 
+<!-- badges: start -->
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/boltomli/mingqingxiaoshuor?branch=master&svg=true)](https://ci.appveyor.com/project/boltomli/mingqingxiaoshuor)
+<!-- badges: end -->
+
 ## Development
 
 ```R
